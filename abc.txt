@@ -1,2 +1,4 @@
+
 echo "local changes"
+echo "remote changes"
 
